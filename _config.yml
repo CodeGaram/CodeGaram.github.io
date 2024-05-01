@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 공부하는가람 # the main title
 
-tagline: 공부하는 거람? 가람? # it will display as the sub-title
+tagline: 가람! 공부하는 거람? # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
